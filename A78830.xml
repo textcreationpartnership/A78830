@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties last gracious message for peace sent to the two Houses of Parliament examined, and several observations from the same concerning Ireland: vvith a copy of the Lord Digbies letter, the Kings Majesties commission, and the articles of peace.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78830</idno>
+            <idno type="STC">Wing C2368</idno>
+            <idno type="STC">Thomason E322_11</idno>
+            <idno type="STC">ESTC R200578</idno>
+            <idno type="EEBO-CITATION">99861291</idno>
+            <idno type="PROQUEST">99861291</idno>
+            <idno type="VID">159525</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78830)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159525)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E322[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties last gracious message for peace sent to the two Houses of Parliament examined, and several observations from the same concerning Ireland: vvith a copy of the Lord Digbies letter, the Kings Majesties commission, and the articles of peace.</title>
+                  <author>Bristol, George Digby, Earl of, 1612-1677.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Matthew Walbank,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>Feb. 10. 1645. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1645[/6]; Thomason catalogue lists under 1646.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159525:1" rendition="simple:additions"/>
+            <p>The Kings Majeſties Laſt Gracious MESSAGE FOR PEACE Sent to the two Houſes of <hi>Parliament</hi> EXAMINED, And ſeveral <hi>Obſervations</hi> from the ſame Concerning <hi>IRELAND:</hi> VVith a Copy of the Lord <hi>Digbies</hi> Letter, the Kings Majeſties Commiſsion, AND The Articles of Pcace.</p>
+            <p>LONDON: Printed for <hi>Matthew Walbank,</hi> Feb. 10. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb facs="tcp:159525:2"/>
+               <pb n="3" facs="tcp:159525:2"/>
+               <head>
+                  <seg rend="decorInit">I</seg>N the firſt place it is to be obſerved, what authority the Earl of <hi>Glamorgan</hi> had to Treat with the <hi>Iriſh</hi> Rebels, under the Kings Signet; (for it cannot be rightly called a <hi>Commiſsion</hi> (had it been under the Great Seal at <hi>Oxford</hi>) becauſe that is declared <hi>Null</hi> by the Parlia<g ref="char:EOLhyphen"/>ment.) The Warrant Signed was in theſe words. <hi>A Copy of the Kings Warrant to the Earl of</hi> Glamorgan.</head>
+               <div type="warrant">
+                  <opener>
+                     <signed>Charles Rex.</signed>
+                  </opener>
+                  <p>
+                     <hi>CHarles</hi> by the Grace of God, King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi> To Our truſty and right welbeloved Coſen <hi>Edward</hi> Earl of <hi>Glamorgan</hi> greeting. We repoſing great and eſpecial Truſt and Confi<g ref="char:EOLhyphen"/>dence in Your approved Wiſdom and Fidelity, Do by theſe (as firmly as under Our Great Seal to all Intents and Pur<g ref="char:EOLhyphen"/>poſes) Authoriſe and give you power to Treat and Conclude with the Confederate <hi>Roman</hi> Catholiques in Our Kingdom of <hi>Ireland,</hi> if upon neceſsity any thing be to be condeſcended un<g ref="char:EOLhyphen"/>to, wherein Our Lieutenant cannot ſo well be ſeen in, as not fit for Vs at the preſent publikely to own; Therefore We charge you to proceed according to this Our Warrant, with all poſsible ſecrecy, and for whatſoever you ſhall engage your ſelf upon ſuch valuable conſiderations, as you in your judgement ſhall deem fit; We promiſe in the word of a King and a Chri<g ref="char:EOLhyphen"/>ſtian, to ratifie and perform the ſame that ſhall be granted by you, and under your Hand and Seal; the ſaid Confede<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ate C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tholiques having by their Supplies teſtified their zeal to Our Service; and this ſhall be in each particular to you a ſufficient Warrant. </p>
+                  <closer>
+                     <dateline>Given at Our Court at <hi>Oxford</hi> under Our Signet and Royal Signature<date> the 12. day of <hi>March,</hi> in the 20. yeer of Our Raign, 1644.</date>
+                     </dateline>
+                  </closer>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:159525:3"/>
+               <p>In the next place it is very requiſite to know what this Treaty of the Earl of <hi>Glamorgan,</hi> with the <hi>Iriſh</hi> Commiſſi<g ref="char:EOLhyphen"/>oners did produce, and that was this. He Treats with the <hi>Iriſh</hi> Commiſſioners for the raiſing of 10000 men for the King, to be ſent into <hi>England,</hi> the Earl of <hi>Glamorgan</hi> imme<g ref="char:EOLhyphen"/>diately to bring over 4000 of them, they to be ſent to <hi>Dublin,</hi> and from thence to be tranſported. This they agree to do on their part.</p>
+               <p>The Earl of <hi>Glamorgan</hi> by vertue of his Authority from the King, grants to the Commiſſioners (in lieu thereof) theſe Articles following.</p>
+               <div type="articles">
+                  <head>A Copy of the ARTICLES of PEACE agreed on with the <hi>Iriſh</hi> Commiſſioners.</head>
+                  <p n="1">
+                     <hi>1. IMprimis,</hi> It is granted, accorded and agreed by the ſaid Earl, for and in the behalf of His moſt Excellent Majeſty, His Heirs and Succeſſors, That all and every the Profeſſors of the Roman Catholique Religion in the Kingdom of <hi>Ireland,</hi> of whatever ſtate, degree or quality ſoever he or they be or ſhall be, ſhall for evermore hereafter have and enjoy within the ſaid Kingdom, the free and publike uſe and exerciſe of the ſaid Roman Catholiques Religion, and of the respective function therein.</p>
+                  <p n="2">
+                     <hi>2. Item,</hi> It is granted, accorded and agreed by the ſaid Earl, for and on the behalf of His Majeſty, His Heirs and Succeſſors, That the ſaid profeſſors of the Roman Catholique Religion, ſhall hold and enjoy all and every the Churches by them enjoyed within this Kingdom, or by them poſſeſſed at any time ſince the <hi>23.</hi> of <hi>October, 1641.</hi> and all other Churches in the ſaid Kingdom, other then ſuch as are now actually en<g ref="char:EOLhyphen"/>joyed by His Majeſties Proteſtant Subjects.</p>
+                  <p n="3">
+                     <hi>3. Item,</hi> It is granted, accorded and agreed by the ſaid Earl, for and in the behalf of His moſt Excellent Majeſty, His Heirs and Succeſſors, That all and every the Roman Catholiques Subjects of <hi>Ireland,</hi> of what eſtate, condition, degree or quality ſoever, ſhall be free and exempted from the Juriſdiction of the Proteſtant Clergy, and every of them; and that the Roman Catholique Clergy of this Kingdom ſhall not be puniſhed,
+<pb n="5" facs="tcp:159525:3"/> troubled or moleſted for the exerciſe of their Juriſdiction over their re<g ref="char:EOLhyphen"/>ſpective Catholique flocks, in matters Spiritual and Eccleſiaſtical.</p>
+                  <p n="4">
+                     <hi>4. Item,</hi> It is further granted, accorded and agreed by the ſaid Earl, for and on the behalf of His moſt Excellent Majeſty, His Heirs and Succeſſors, That an Act ſhall be paſſed in the next Parliament to be holden in this Kingdom, the tenour and purport whereof ſhall be as fol<g ref="char:EOLhyphen"/>loweth, <hi>viz.</hi> An Act for the relief of His Majeſties Catholiques Sub<g ref="char:EOLhyphen"/>jects of His Highneſſe Kingdom of <hi>Ireland:</hi> Whereas by an Act made in Parliament held in <hi>Dublin</hi> the ſecond yeer of the Raign of the late Queen <hi>Elizabeth,</hi> intituled, <hi>An Act reſtoring to the Crown, the an<g ref="char:EOLhyphen"/>cient Juriſdiction over the ſtate Eccleſiaſtical and Spiritual, and a<g ref="char:EOLhyphen"/>boliſhing all Forraign power repugnant to the ſame;</hi> And by one other Statute made in the ſaid laſt mentioned Parliament, intituled, <hi>An Act for the Uniformity of Common-Prayer and Service in the Church, and the Adminiſtration of the Sacrament, Sundry Mulcts, Penalties, Reſtraints and Incapacities, are and have been laid upon the Pro<g ref="char:EOLhyphen"/>feſſors of the Roman Catholique Religion in this Kingdom, in, for and concerning the uſe, profeſſion, and exerciſe of their Religion, and their functions therein, to the great prejudice, trouble and diſ<g ref="char:EOLhyphen"/>quiet of the Roman Catholiques in their Liberties and Eſtates, and the general diſturbance of the whole Kingdom.</hi> For remedy whereof, and for the better ſetling, increaſe, and continuance of the Peace, <g ref="char:V">Ʋ</g>nity and Tranquility of this Kingdom of <hi>Ireland;</hi> His Majeſty at the hum<g ref="char:EOLhyphen"/>ble ſuit and requeſt of the Lords and Commons in this preſent Parlia<g ref="char:EOLhyphen"/>ment aſſembled, is graciouſly pleaſed that it may be Enacted, <hi>And be it Enacted by the Kings moſt Excellent Majeſty, the Lords Spiritual and Temporal, and Commons in this preſent Parliament aſſembled, and by Authority of the ſame, That from and after the firſt day of this S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſion of Parliament, it ſhall and may be lawful to and for all the profeſſors of the Roman Catholique Religion, of what degree, condition or quality, to have, uſe and enjoy the free and publike ex<g ref="char:EOLhyphen"/>erciſe and profeſſion of the ſaid Roman Catholique Religion, and of their ſeveral and reſpective functions therein, without incurring any mulct or penalty whatſoever, or being ſubject to any reſtraint or in<g ref="char:EOLhyphen"/>capacity concerning the ſame; Any Article or Clauſe, Sentence or Proviſion in the ſaid laſt mentioned Acts of Parliament, or in any o<g ref="char:EOLhyphen"/>ther Act or Acts of Parliament, Ordinances, Law or uſage to the contrary, or in any wiſe notwithſtanding.</hi> And be it alſo further Enacted, <hi>That neither the ſaid Statutes, or any other Statute, Acts or
+<pb n="6" facs="tcp:159525:4"/> Ordinance hereafter made in Your Majeſties Raign, or in the Raign of any of Your Highneſſes moſt Noble Progenitors or Anceſtors, and now of force in this Kingdom; nor all, nor any branch, article, clauſe and ſentence in them or any of them, contained or ſpecified, ſhall be of force or validity in this Realm, to extend to be conſtrued, or adjudged to extend in any wiſe to inquiet, prejudice, vex or moleſt the profeſſors of the ſaid Roman Catholique Religion, in their Per<g ref="char:EOLhyphen"/>ſons, Lands, Hereditaments or Goods, for any thing, matter or cauſe whatſoever, touching and concerning the free and publike uſe, exer<g ref="char:EOLhyphen"/>ciſe and enjoyings of their ſaid Religion, function and profeſſion.</hi> And be it alſo further Enacted and Declared by the Authority aforeſaid, <hi>That Your Majeſties Roman Catholique Subjects in the ſaid Realm of</hi> Ireland, <hi>from the firſt day of this Seſſion of Parliament, ſhall be, and be taken, deemed and adjudged capable of all Offices of Truſt and advancement, places, degrees and dignities, and preferment what<g ref="char:EOLhyphen"/>ſoever, within Your ſaid Realm of</hi> Ireland, <hi>any Acts, Statutes, U<g ref="char:EOLhyphen"/>ſage or Law to the contrary notwithſtanding. And that other Acts ſhall be paſſed in the ſaid Parliament, according to the tenou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of ſuch Agreement or Conceſſions as herein are expreſſed; and that in the mean time the ſaid Roman Catholique Subjects, and every of them, ſhall enjoy the full benefit, freedom and advantage of the ſaid Agree<g ref="char:EOLhyphen"/>ments and Conceſſions, and of every of them,</hi>
+                  </p>
+                  <p n="5">
+                     <hi>5. Item,</hi> It is accorded, granted and agreed by the ſaid Earl, for and in the behalf of His Majeſty, His Heirs and Succeſſors, That His Ex<g ref="char:EOLhyphen"/>cellency the Lord Marqueſſe of <hi>Ormond,</hi> Lord Lieutenant of <hi>Ireland,</hi> or any other or others authorized or to be authorized by His Majeſty, ſhall not diſturb the profeſſors of the Roman Catholique Religion in their preſent poſſeſſion and continuance of the profeſſion of their ſaid Churches Iuriſdiction, or any other the matters aforeſaid in theſe Articles agreed and condeſcended unto by the ſaid Earl, until His Majeſties pleaſure be ſignified for confirming and publiſhing the Grants and Agreements here<g ref="char:EOLhyphen"/>by articled for, and condeſcended unto by the ſaid Earl.</p>
+                  <p n="6">
+                     <hi>6. Item,</hi> And the ſaid Earl of <hi>Giamorgan</hi> doth hereby engage His Majeſties Royal word and Publique Faith, unto all and ſingular the profeſſors of the ſaid Roman Catholique Religion within the ſaid King<g ref="char:EOLhyphen"/>dom of <hi>Ireland,</hi> for the due obſervance and performance of all and every the Articles, Grants and Clauſes therein contained, and the Conceſſions herein mentioned to be performed to them.</p>
+                  <p n="7">
+                     <hi>7. Item,</hi> It is accorded and agreed, That the ſaid Publike Faith of
+<pb n="7" facs="tcp:159525:4"/> the Kingdom ſhall be ingaged unto the ſaid Earl, by the ſaid Commiſſi<g ref="char:EOLhyphen"/>oners of the ſaid Confederate Catholiques, for ſending ten thouſand men to ſerve His Majeſty, by order and publike Declaration of the General Aſſembly now ſitting, And that the Supreme Councel of the ſaid Cen<g ref="char:EOLhyphen"/>federate Catholiques, ſhall engage themſelves to bring the ſaid number of men armed, the one half with Muskets, and the other half with Pikes, unto any Port within this Realm, at the Election of the ſaid Earl, and at ſuch time as he ſhall appoint, to be by him ſhipped and tranſported to ſerve His Majeſty in <hi>England, Wales</hi> or <hi>Scotland,</hi> under the command of the ſaid Earl of <hi>Glamorgan</hi> as Lord General of the ſaid Army, which Army is to be kept together in one intire body, and all other the Officers and Commanders of the ſaid Army are to be named by the Supreme Councel of the ſaid Confederate Catholiques, or by ſuch others as the General Aſſembly of the ſaid Confederate Catholiques of this Kingdom ſhall intruſt therewith:</p>
+                  <closer>
+                     <dateline> In witneſſe whereof the parties to theſe preſents have hereunto interchangeably put their hands and Seals <date>the <hi>25.</hi> day of <hi>Auguſt. 1645.</hi>
+                        </date>
+                     </dateline> 
+                     <signed>Glamorgan.</signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <list>
+                     <head>The Commiſsioners for the Rebels were.</head>
+                     <item>Lord Viſcount <hi>Mount Garret,</hi>
+                     </item>
+                     <item>Lord Viſcount <hi>Muskerry,</hi>
+                     </item>
+                     <item>
+                        <hi>Alexander mac Donnel</hi> Eſquire,</item>
+                     <item>
+                        <hi>Nicholas Plunket</hi> Eſquire,</item>
+                     <item>Sir <hi>Talbot</hi> Baron<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>,</item>
+                     <item>
+                        <hi>Dermer O Bryan</hi> Eſquire,</item>
+                     <item>
+                        <hi>John Dillon</hi> Eſquire,</item>
+                     <item>
+                        <hi>Patrick Darcy</hi> Eſquire,</item>
+                     <item>
+                        <hi>Jeffery Brown</hi> Eſquire.</item>
+                  </list>
+               </head>
+               <p>Now for <hi>Digbies</hi> part it plainly appears, that he was at the very moulding of this deſigne; Here followeth the Copy of a Letter which he ſent to the <hi>Iriſh</hi> Commiſſioners before he went from the King.</p>
+               <div type="part">
+                  <pb n="8" facs="tcp:159525:5"/>
+                  <head>A Copy of the Lord <hi>Digbies</hi> Letter to the Iriſh Commiſsioners.</head>
+                  <opener>
+                     <salute>My Lords and Gentlemen,</salute>
+                  </opener>
+                  <p>TO diſabuſe you, I am Commanded by His Majeſtie to declare un<g ref="char:EOLhyphen"/>to you, that were the Conditions of His Affairs much more de<g ref="char:EOLhyphen"/>ſperate then they are, He would never redeem them by any Con<g ref="char:EOLhyphen"/>ceſſion of ſo much wrong, both to His Honour and Conſcience: It is for the defence of <hi>His Religion,</hi> (principally) <hi>that he hath undergone the extremities of War here, and He would never redeem His Crown by ratifying that there:</hi> So that to deal clearly with you, as <hi>you may be happy your ſelves, and be happy inſtruments of His Majeſties re<g ref="char:EOLhyphen"/>ſtoring,</hi> if you would be <hi>content with Reaſon,</hi> and give him that <hi>ſpeedy aſſiſtance,</hi> which you well may: So if nothing will content you, but what muſt wound His Honour and Conſcience, you muſt ex<g ref="char:EOLhyphen"/>pect, howſoever His condition is, and how deteſtable ſoever the —of this Kingdom, are to Him, He will in that point joyn with them, the <hi>Scots,</hi> or with any of the Proteſtant Religion, <hi>rather then do the leaſt Act</hi> that may hazard that Religion, in which, and for which, He will live and die. Having ſaid thus much by His Majeſties Command, I have no more to adde, but that I ſhall think myſelf very happy if this take any ſuch effect, as may tend to the peace of that Kingdom, and make me</p>
+                  <closer>
+                     <signed>Your affectionate humble Servant <hi>George Digby.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <argument>
+                  <p>This Letter of <hi>Digbies,</hi> was before the Earl of <hi>Glamorgan</hi> was ſent over to <hi>Ireland</hi> in the Infantry of the Deſigne, which it ſeems came not to maturity until now.</p>
+               </argument>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Publiſhed according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
